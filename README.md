@@ -1,6 +1,6 @@
 # Bharat Intern - Machine Learning Intern
 
-This repository contains the projects developed during my internship at Bharat as a Machine Learning Engineer.
+This repository contains the projects developed during my internship at Bharat as a Machine Learning Intern.
 
 ## Projects
 
